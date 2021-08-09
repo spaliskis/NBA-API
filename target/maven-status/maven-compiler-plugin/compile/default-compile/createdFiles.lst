@@ -1,0 +1,12 @@
+API\Teams.class
+BaskteballWebScraper\TeamCallable.class
+API\LoadData.class
+API\Stats.class
+BaskteballWebScraper\WebScraperException.class
+API\Player.class
+BaskteballWebScraper\WebScraper.class
+API\DataController.class
+BaskteballWebScraper\TeamCallableCSV.class
+API\Team.class
+API\RestServiceApplication.class
+Util\WebScraperUtil.class
